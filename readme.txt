@@ -1,3 +1,3 @@
 src/ folder has source code
 
-windows/ folder has precompiled bin2c.exe running on windows targets
+windows/bin folder has x86 / x64 binaries (bin2c.exe) ready to use 
